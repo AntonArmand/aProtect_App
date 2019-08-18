@@ -1,0 +1,228 @@
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\netstandard.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.AppContext.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Collections.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.ComponentModel.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Console.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Data.Common.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Globalization.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.IO.Compression.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.IO.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.IO.Pipes.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Linq.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Net.Http.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Net.Ping.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Net.Primitives.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Net.Requests.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Net.Security.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Net.Sockets.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.ObjectModel.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Reflection.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Resources.Reader.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Resources.Writer.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Runtime.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Security.Claims.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Security.Principal.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Security.SecureString.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Text.Encoding.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Threading.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Threading.Thread.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Threading.Timer.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.ValueTuple.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Xml.XPath.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\aProtect.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\calculatorFonction.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\aProtect.pdb
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\calculatorFonction.pdb
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\obj\Debug\calculator.exe.config
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\obj\Debug\calculator.csproj.CopyComplete
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\obj\Debug\calculator.calculatorForm.resources
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matthieu Baunac\ownCloud\Examen RPI - 2019\Oral Projet\Sources\AtoutProtect_App\1.0\calculator\calculator\bin\Debug\Newtonsoft.Json.xml
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\calculator.exe.config
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\calculator.exe
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\calculator.pdb
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\aProtect.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\Newtonsoft.Json.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\aProtect.pdb
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\Newtonsoft.Json.xml
+S:\RPI\Projet_Technique\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+S:\RPI\Projet_Technique\calculator\calculator\obj\Debug\calculator.calculatorForm.resources
+S:\RPI\Projet_Technique\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+S:\RPI\Projet_Technique\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+S:\RPI\Projet_Technique\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+S:\RPI\Projet_Technique\calculator\calculator\obj\Debug\calculator.csproj.CopyComplete
+S:\RPI\Projet_Technique\calculator\calculator\obj\Debug\calculator.exe
+S:\RPI\Projet_Technique\calculator\calculator\obj\Debug\calculator.pdb
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\Microsoft.Win32.Primitives.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\netstandard.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.AppContext.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Collections.Concurrent.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Collections.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Collections.NonGeneric.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Collections.Specialized.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.ComponentModel.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.ComponentModel.Primitives.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.ComponentModel.TypeConverter.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Console.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Data.Common.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Diagnostics.Contracts.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Diagnostics.Debug.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Diagnostics.Process.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Diagnostics.StackTrace.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Diagnostics.Tools.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Diagnostics.TraceSource.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Diagnostics.Tracing.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Drawing.Primitives.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Dynamic.Runtime.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Globalization.Calendars.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Globalization.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Globalization.Extensions.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.IO.Compression.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.IO.Compression.ZipFile.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.IO.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.IO.FileSystem.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.IO.FileSystem.Primitives.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.IO.FileSystem.Watcher.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.IO.IsolatedStorage.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.IO.MemoryMappedFiles.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.IO.Pipes.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Linq.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Linq.Expressions.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Linq.Parallel.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Linq.Queryable.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Net.Http.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Net.NameResolution.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Net.NetworkInformation.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Net.Ping.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Net.Primitives.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Net.Requests.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Net.Security.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Net.Sockets.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Net.WebHeaderCollection.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Net.WebSockets.Client.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Net.WebSockets.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.ObjectModel.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Reflection.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Reflection.Extensions.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Reflection.Primitives.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Resources.Reader.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Resources.ResourceManager.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Resources.Writer.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Runtime.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Runtime.Extensions.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Runtime.Handles.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Runtime.InteropServices.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Runtime.Numerics.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Runtime.Serialization.Json.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Runtime.Serialization.Xml.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Security.Claims.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Security.Cryptography.Csp.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Security.Cryptography.Encoding.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Security.Cryptography.Primitives.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Security.Principal.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Security.SecureString.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Text.Encoding.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Text.Encoding.Extensions.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Text.RegularExpressions.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Threading.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Threading.Overlapped.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Threading.Tasks.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Threading.Tasks.Parallel.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Threading.Thread.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Threading.ThreadPool.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Threading.Timer.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.ValueTuple.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Xml.ReaderWriter.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Xml.XDocument.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Xml.XmlDocument.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Xml.XmlSerializer.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Xml.XPath.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\System.Xml.XPath.XDocument.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\calculatorFonction.dll
+S:\RPI\Projet_Technique\calculator\calculator\bin\Debug\calculatorFonction.pdb
+S:\RPI\Projet_Technique\calculator\calculator\obj\Debug\calculator.exe.config
