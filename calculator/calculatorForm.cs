@@ -29,13 +29,18 @@ namespace calculator
         {
 
             InitializeComponent();
-            if(licence.checkLicence())
+            //this.disableApp();
+            if (licence.checkLicence())
             {
+                this.enableApp();
+                this.Show();
             }
             else
             {
-                disableApp();
+                keyForm keyForm = new keyForm();
+                keyForm.Show();
             }
+            
         }
 
         public void disableApp()
@@ -47,6 +52,16 @@ namespace calculator
             buttonSubtraction.Enabled = false;
             buttonMultiplication.Enabled = false;
         }
+        public void enableApp()
+        {
+            textBoxNumberA.Enabled = true;
+            textBoxNumberB.Enabled = true;
+            textBoxResult.Enabled = true;
+            buttonAddition.Enabled = true;
+            buttonSubtraction.Enabled = true;
+            buttonMultiplication.Enabled = true;
+        }
+
         private void LabelMenuTitle_Click(object sender, EventArgs e)
         {
 
@@ -69,37 +84,58 @@ namespace calculator
 
         private void TextBoxNumberA_TextChanged(object sender, EventArgs e)
         {
-
+            if(!licence.checkLicence())
+            {
+                MessageBox.Show("Votre licence est pas activée ! ", "ERREUR");
+                textBoxNumberA.Text = "";
+            }
         }
 
         private void TextBoxNumberB_TextChanged(object sender, EventArgs e)
         {
-
+            if (!licence.checkLicence())
+            {
+                MessageBox.Show("Votre licence est pas activée ! ", "ERREUR");
+                textBoxNumberB.Text = "";
+            }
         }
 
         private void TextBoxResult_TextChanged(object sender, EventArgs e)
         {
-
+            if (!licence.checkLicence())
+            {
+                MessageBox.Show("Votre licence est pas activée ! ", "ERREUR");
+                textBoxResult.Text = "";
+            }
         }
 
         private void ButtonAddition_Click(object sender, EventArgs e)
         {
+            if(licence.checkLicence())
+            {
+                try
+                {
+                    int i = cal.addition(int.Parse(textBoxNumberA.Text), int.Parse(textBoxNumberB.Text));
+                    textBoxResult.Text = i.ToString();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+            else
+            {
+                MessageBox.Show("Votre licence est pas activé! ", "ERREUR");
+            }
 
-            try
-            {
-                int i = cal.addition(int.Parse(textBoxNumberA.Text), int.Parse(textBoxNumberB.Text));
-                textBoxResult.Text = i.ToString();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
 
         }
 
         private void ButtonSubtraction_Click(object sender, EventArgs e)
         {
-            try
+            if (licence.checkLicence())
+            {
+                try
             {
                 int i = cal.subtraction(int.Parse(textBoxNumberA.Text), int.Parse(textBoxNumberB.Text));
                 textBoxResult.Text = i.ToString();
@@ -108,12 +144,19 @@ namespace calculator
             {
                 MessageBox.Show(ex.Message);
             }
+            }
+            else
+            {
+                MessageBox.Show("Votre licence est pas activé! ", "ERREUR");
+            }
 
         }
 
         private void ButtonMultiplication_Click(object sender, EventArgs e)
         {
-            try
+            if (licence.checkLicence())
+            {
+                try
             {
                 int i = cal.multiplication(int.Parse(textBoxNumberA.Text), int.Parse(textBoxNumberB.Text));
                 textBoxResult.Text = i.ToString();
@@ -122,13 +165,22 @@ namespace calculator
             {
                 MessageBox.Show(ex.Message);
             }
+            }
+            else
+            {
+                MessageBox.Show("Votre licence est pas activé! ", "ERREUR");
+            }
+
         }
 
-        private static void initLicence()
+        /**private static void initLicence()
         {
+            keyForm keyForm = new keyForm();
+            keyForm.Show();
             keyClass licence = new keyClass();
             string resultAPI = licence.callAPI();
             string res = resultAPI;
+            Console.WriteLine(res);
 
             code = res[37].ToString() + res[38].ToString() + res[39].ToString() + res[40].ToString() + res[41].ToString();
             type = res[77].ToString();
@@ -141,6 +193,6 @@ namespace calculator
             licence.writeFile(text);
             StreamReader dataRead = licence.readFile();
             Console.WriteLine("DATA READ :" + dataRead);
-        }
+        }**/
     }
 }
